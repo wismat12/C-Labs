@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452792556 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\spr\sprawdzian\sprawdzian.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

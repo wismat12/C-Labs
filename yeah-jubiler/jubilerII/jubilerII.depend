@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450468392 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\jubiler\jubilerii\jubilerii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

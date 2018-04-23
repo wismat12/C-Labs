@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450381174 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\ciagi liczb\na listach\ciagi_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

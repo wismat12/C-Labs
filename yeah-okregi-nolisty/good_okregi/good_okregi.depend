@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450300854 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\yeah-okregi\good_okregi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1450300854 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\yeah-okregi-nolisty\good_okregi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

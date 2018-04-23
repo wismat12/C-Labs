@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450440217 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\genealogia\genealogia\genealogia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1452716654 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\ukonczone\yeah-genealogia\yeah-genealogia-list\genealogia\genealogia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

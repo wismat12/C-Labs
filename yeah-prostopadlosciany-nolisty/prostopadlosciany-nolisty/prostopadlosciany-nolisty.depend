@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450386221 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\ciagi liczb\na listach\prostopadlosciany-nolisty\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1450446044 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\yeah-prostopadlosciany-nolisty\prostopadlosciany-nolisty\main.c
+	<stdio.h>
+	<stdlib.h>
+
