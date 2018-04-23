@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452618289 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\macierz\macierz_rzadka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1452644558 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\ukonczone\macierz\macierz_rzadka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
