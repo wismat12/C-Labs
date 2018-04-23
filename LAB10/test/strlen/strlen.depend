@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449754162 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\lab10\test\strlen\main.c
+	<stdio.h>
+	<stdlib.h>
+
