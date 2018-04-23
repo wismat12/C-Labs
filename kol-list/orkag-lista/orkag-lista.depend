@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452708880 source:c:\users\mateusz\documents\1.programy\c\1.laboratoria!\zadania\kol-list\orkag-lista\okraglista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
